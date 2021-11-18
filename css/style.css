@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background: #2C4A52;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parant {
+    width: 60%;
+    min-height: 80vh;
+    background: #8e9b97; 
+    background: linear-gradient(to right bottom, 
+    rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));   
+    border-radius: 5vh;
+    align-items: center;
+}
+
+.icons  {
+    display: flex;
+    width: 80%;
+    height: auto;
+    /* background: chocolate; */
+    align-items: center;
+    margin: auto;
+    margin-top: 4%;
+}
+
+.top{
+    width: 90%;
+    height: auto;
+    /* background: cornflowerblue; */
+    display: flex;
+    align-items: center;
+    margin-top: 10%;
+    justify-content: center;
+
+}
+.mainPhoto{
+    max-width: 100%;
+    border-radius: 5vh;
+    box-shadow: 0 0 7px rgb(0, 0, 0);
+    margin: 5px;
+}
+
+.png {
+    max-width: 100%;
+    margin: 1px;
+    align-items: center;
+    }
+
+    
+
+   
+
+
